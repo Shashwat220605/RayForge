@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+*.exe
+
+# Render output
+output/
+*.bmp
+*.ppm
+
+# IDE files
+.vscode/
